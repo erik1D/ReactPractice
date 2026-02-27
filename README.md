@@ -1,1 +1,1 @@
-# ImposterSyndromeApp
+# ReactPractice
